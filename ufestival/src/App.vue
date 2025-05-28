@@ -3,9 +3,7 @@
     <AppHeader />
   </header>
   <body>
-    <div>
-      <router-view />
-    </div>
+    <div></div>
   </body>
   <footer>
     <AppFooter />
